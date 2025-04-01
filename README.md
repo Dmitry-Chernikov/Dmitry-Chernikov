@@ -2,7 +2,7 @@
 
 ### Learning | Using 🧠
 
-<a href="https://linuxmint.com" target="_blank"><img height="50" src="svg/LogoLinuxMint.svg"></a>
+<a href="https://linuxmint.com" target="_blank"><img height="40" src="svg/LogoLinuxMint.svg"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dmitry-Chernikov)](https://github.com/ryo-ma/github-profile-trophy)
 
