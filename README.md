@@ -1,5 +1,12 @@
 ### Hi, I'm Dmitry 👋  ![](https://komarev.com/ghpvc/?username=Dmitry-Chernikov)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://linuxmint.com/web/img/logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://linuxmint.com/web/img/logo.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://linuxmint.com/web/img/logo.svg">
+</picture>
+
+
 ### Learning | Using 🧠
 
 <code> <a href="https://linuxmint.com" target="_blank"><img height="50" src="https://linuxmint.com/web/img/logo.svg"></a></code>
